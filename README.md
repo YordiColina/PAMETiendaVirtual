@@ -1,1 +1,1 @@
-# PAMETiendaVirtual
+# PAMETiendaVirtual 2.0
